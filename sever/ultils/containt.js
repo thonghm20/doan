@@ -1,0 +1,33 @@
+exports.users =[
+    {
+        email:'user1@gmail.com',
+        password:123456,
+        firstname:'thong1',
+        lastname:'minh',
+        mobile:'2123123'
+    },
+    {
+        email:'user2@gmail.com',
+        password:123456,
+        firstname:'thong2',
+        lastname:'mih',
+        mobile:'21231123'
+    },
+    {
+        email:'user3@gmail.com',
+        password:123456,
+        firstname:'thong3',
+        lastname:'mih',
+        mobile:'21232123'
+    },
+]
+exports.roles=[
+{
+    code:1945,
+    value:'Admin'
+},
+{
+    code:1979,
+    value:'User'
+}
+]
